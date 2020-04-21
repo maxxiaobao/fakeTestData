@@ -1,37 +1,44 @@
 {
-  wishlist:{
-    wishlist: [
-    {
-      id: '001',
-      src: 'https://www.bulgari.com/dw/image/v2/BCSG_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw8fa2af0a/images/images/1239168.png?sw=400, small',
-      nameEN: 'B.zero1 Rock 18K 玫瑰金項鍊',
-      nameCN: '玫瑰金項鍊',
-    }, {
-      id: '002',
-      src: 'https://www.bulgari.com/dw/image/v2/BCSG_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw8fa2af0a/images/images/1239168.png?sw=400, small',
-      nameEN: 'B.zero1 Rock 18K 玫瑰金項鍊',
-      nameCN: '玫瑰金項鍊',
-    }, {
-      id: '003',
-      src: 'https://www.bulgari.com/dw/image/v2/BCSG_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw8fa2af0a/images/images/1239168.png?sw=400, small',
-      nameEN: 'B.zero1 Rock 18K 玫瑰金項鍊',
-      nameCN: '玫瑰金項鍊',
-    }],
-    recommend: [{
-      id: '001',
-      src: 'https://www.bulgari.com/dw/image/v2/BCSG_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw8fa2af0a/images/images/1239168.png?sw=400, small',
-      nameEN: 'B.zero1 Rock 18K 玫瑰金項鍊',
-      nameCN: '玫瑰金項鍊',
-    }, {
-      id: '002',
-      src: 'https://www.bulgari.com/dw/image/v2/BCSG_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw8fa2af0a/images/images/1239168.png?sw=400, small',
-      nameEN: 'B.zero1 Rock 18K 玫瑰金項鍊',
-      nameCN: '玫瑰金項鍊',
-    }, {
-      id: '003',
-      src: 'https://www.bulgari.com/dw/image/v2/BCSG_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw8fa2af0a/images/images/1239168.png?sw=400, small',
-      nameEN: 'B.zero1 Rock 18K 玫瑰金項鍊',
-      nameCN: '玫瑰金項鍊',
-    }],
+  "wishlist": {
+    "wishlist": [
+      {
+        "id": "001",
+        "src": "https://www.bulgari.com/dw/image/v2/BCSG_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw8fa2af0a/images/images/1239168.png?sw=400, small",
+        "nameEN": "B.zero1 Rock 18K 玫瑰金項鍊",
+        "nameCN": "玫瑰金項鍊"
+      },
+      {
+        "id": "002",
+        "src": "https://www.bulgari.com/dw/image/v2/BCSG_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw8fa2af0a/images/images/1239168.png?sw=400, small",
+        "nameEN": "B.zero1 Rock 18K 玫瑰金項鍊",
+        "nameCN": "玫瑰金項鍊"
+      },
+      {
+        "id": "003",
+        "src": "https://www.bulgari.com/dw/image/v2/BCSG_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw8fa2af0a/images/images/1239168.png?sw=400, small",
+        "nameEN": "B.zero1 Rock 18K 玫瑰金項鍊",
+        "nameCN": "玫瑰金項鍊"
+      }
+    ],
+    "recommend": [
+      {
+        "id": "001",
+        "src": "https://www.bulgari.com/dw/image/v2/BCSG_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw8fa2af0a/images/images/1239168.png?sw=400, small",
+        "nameEN": "B.zero1 Rock 18K 玫瑰金項鍊",
+        "nameCN": "玫瑰金項鍊"
+      },
+      {
+        "id": "002",
+        "src": "https://www.bulgari.com/dw/image/v2/BCSG_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw8fa2af0a/images/images/1239168.png?sw=400, small",
+        "nameEN": "B.zero1 Rock 18K 玫瑰金項鍊",
+        "nameCN": "玫瑰金項鍊"
+      },
+      {
+        "id": "003",
+        "src": "https://www.bulgari.com/dw/image/v2/BCSG_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw8fa2af0a/images/images/1239168.png?sw=400, small",
+        "nameEN": "B.zero1 Rock 18K 玫瑰金項鍊",
+        "nameCN": "玫瑰金項鍊"
+      }
+    ]
   }
 }
