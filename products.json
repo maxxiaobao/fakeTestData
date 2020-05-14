@@ -1435,7 +1435,7 @@
             "sapCode": 264151,
             "productNameCN": "",
             "category": "Necklace",
-            "productNameEN": "Serpenti Necklace",
+            "productNameEN": "Serpenti",
             "heroPhoto": "https://staging-bulgari.omnisaas.cn/image/cf89e289-05aa-480c-9636-9fca62d18e27.png",
             "photos": [
                 {
@@ -1457,7 +1457,7 @@
                     "url": "https://staging-bulgari.omnisaas.cn/image/8c53e18b-b2ff-490e-9c12-654868353257.png"
                 }
             ],
-            "timestampInVideo": 0,
+            "timestampInVideo": 764,
             "version": "20200507",
             "_type": "Product",
             "id": "379b9766-8056-4503-89ec-1ae543987f79",
@@ -2685,7 +2685,7 @@
                     "url": "https://staging-bulgari.omnisaas.cn/image/2a61ea0e-e9cb-407d-910e-b1d4863fdc04.png"
                 }
             ],
-            "timestampInVideo": 0,
+            "timestampInVideo": 674,
             "version": "20200507",
             "_type": "Product",
             "id": "be859059-9d42-44ac-bb6a-eb379ed3bab3",
